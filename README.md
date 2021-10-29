@@ -9,7 +9,7 @@ This Project is a web based project I built using React. Some key Aspects:
 - Live Worldwide News update 
 - Covid-19 resources update and guildelines
 
-Deployed live on https://covid-19-tracker-a2bea.web.app/ . Check out!
+
 
 ## Web View
 
